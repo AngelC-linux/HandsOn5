@@ -77,5 +77,4 @@ public class MLR extends Agent {
         }
 
     }
-
 }
